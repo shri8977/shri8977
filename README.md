@@ -1,116 +1,94 @@
 <div align="center">
 
-# 👋 Hi, I'm Shri Subashini M
+# ⚡ SHRI SUBASHINI
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SSoC'26+Maintainer;Open+Source+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
-</p>
+### 「 Student • Maintainer • Builder 」
 
-```bash
-$ whoami
-
-Computer Science Student
-SSoC'26 Maintainer
-Open Source Enthusiast
-```
-
-Learning • Building • Contributing
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Open+Source+Enthusiast;SSoC'26+Maintainer;Building+One+Commit+At+A+Time" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 📜 CHARACTER PROFILE
 
-- 🎓 Computer Science Student
-- 🚀 SSoC'26 Maintainer
-- 🌱 Exploring Software Development
-- 🤝 Active in Open Source
-- 💡 Passionate about learning and building
-- 🎯 Working towards internships and impactful projects
+```yaml
+Name: Shri Subashini M
 
----
+Class: Computer Science Student
 
-## 🎯 Current Goals
+Guild: Open Source Community
 
-```text
-[✓] Open Source Contributions
-[✓] GitHub Growth
-[ ] Strengthen Java
-[ ] Improve DSA
-[ ] Build Impactful Projects
-[ ] Secure Internship
+Special Ability:
+  - Learning Fast
+  - Community Building
+  - Project Reviewing
+
+Current Rank:
+  SSoC'26 Maintainer
+
+Status:
+  Growing...
 ```
 
 ---
 
-## 🛠 Tech Stack
+# 🎯 ACTIVE QUESTS
+
+🟢 Complete meaningful open source contributions
+
+🟢 Improve Java & problem solving
+
+🟢 Build projects worth showcasing
+
+🟢 Become internship ready
+
+---
+
+# ⚔️ INVENTORY
 
 ```text
-Java
-Git
-GitHub
-HTML
-CSS
-JavaScript
-TypeScript
+☑ Java
+
+☑ Git
+
+☑ GitHub
+
+☑ HTML
+
+☑ CSS
+
+☑ JavaScript
+
+☑ Curiosity
+
+☑ Persistence
 ```
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 BATTLE STATS
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri8977&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shri8977&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri8977&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri8977&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 ACTIVITY LOG
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shri8977&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=shri8977&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📌 Current Focus
+# 💭 FINAL MESSAGE
 
-- Open Source Contributions
-- Java Development
-- Problem Solving
-- Data Structures & Algorithms
-- Building Useful Projects
-
----
-
-## ⚡ Daily Protocol
-
-```java
-while(alive){
-    learn();
-    build();
-    contribute();
-    repeat();
-}
-```
-
----
-
-## 🌟 Philosophy
-
-> Consistency beats intensity.
-
-> Small progress every day compounds into big results.
-
----
-
-<div align="center">
-
-### 🚀 Open Source • Learning • Building
-
-Thanks for visiting my profile!
+> Every expert was once a beginner.
+>
+> Every contribution starts with a single commit.
 
 </div>
