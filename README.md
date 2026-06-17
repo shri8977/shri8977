@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shri8977/shri8977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shri Subashini M
 
-Here are some ideas to get you started:
+```bash
+$ whoami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science Student
+SSoC'26 Maintainer
+Open Source Enthusiast
+```
+
+Learning • Building • Contributing
+
+</div>
+
+---
+
+## About Me
+
+- 🎓 Computer Science Student
+- 🚀 SSoC'26 Maintainer
+- 🌱 Exploring Software Development
+- 💻 Open Source Enthusiast
+
+---
+
+## Current Goals
+
+```text
+[✓] Open Source Contributions
+[✓] GitHub Growth
+[ ] Strengthen Java
+[ ] Improve DSA
+[ ] Build Impactful Projects
+[ ] Secure Internship
+```
+
+---
+
+## Tech Stack
+
+```text
+Java
+Git
+GitHub
+HTML
+CSS
+JavaScript
+```
+
+---
+
+## Daily Protocol
+
+while(alive){
+    learn();
+    build();
+    contribute();
+}
