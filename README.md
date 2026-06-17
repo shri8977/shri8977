@@ -1,18 +1,10 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,100:00FF41&text=SHRI.OS&fontColor=00FF41&fontSize=60&animation=fadeIn" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Wake+Up+Neo...;The+Matrix+Has+You...;Computer+Science+Student;SSoC'26+Maintainer;Open+Source+Enthusiast;Learning+%7C+Building+%7C+Contributing" />
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="650"/>
-</p>
-
-<h1 align="center">⚡ Shri Subashini M</h1>
-
 <div align="center">
+
+# 👋 Hi, I'm Shri Subashini M
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SSoC'26+Maintainer;Open+Source+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
+</p>
 
 ```bash
 $ whoami
@@ -22,71 +14,79 @@ SSoC'26 Maintainer
 Open Source Enthusiast
 ```
 
+Learning • Building • Contributing
+
 </div>
 
 ---
 
-## 🟩 $ about_me
+## 🚀 About Me
 
-* 🎓 Computer Science Student
-* 🚀 SSoC'26 Maintainer
-* 🌱 Exploring Software Development
-* 🤝 Active in Open Source
-* 💡 Learning through building and contributing
+- 🎓 Computer Science Student
+- 🚀 SSoC'26 Maintainer
+- 🌱 Exploring Software Development
+- 🤝 Active in Open Source
+- 💡 Passionate about learning and building
+- 🎯 Working towards internships and impactful projects
 
 ---
 
-## 🟩 $ current_mission
+## 🎯 Current Goals
 
-```diff
-+ Open Source Contributions
-+ Community Building
-+ GitHub Growth
-
-! Improve DSA
-! Strengthen Java
-
-# Objective: Internship
+```text
+[✓] Open Source Contributions
+[✓] GitHub Growth
+[ ] Strengthen Java
+[ ] Improve DSA
+[ ] Build Impactful Projects
+[ ] Secure Internship
 ```
 
 ---
 
-## 🟩 $ tech_stack
+## 🛠 Tech Stack
 
-```yaml
-Languages:
-  - Java
-  - JavaScript
-  - HTML
-  - CSS
-
-Tools:
-  - Git
-  - GitHub
-  - VS Code
+```text
+Java
+Git
+GitHub
+HTML
+CSS
+JavaScript
+TypeScript
 ```
 
 ---
 
-## 🟩 $ github_stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri8977&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri8977&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri8977&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri8977&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🟩 $ contribution_streak
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shri8977&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shri8977&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🟩 $ execution_loop
+## 📌 Current Focus
+
+- Open Source Contributions
+- Java Development
+- Problem Solving
+- Data Structures & Algorithms
+- Building Useful Projects
+
+---
+
+## ⚡ Daily Protocol
 
 ```java
 while(alive){
@@ -99,19 +99,18 @@ while(alive){
 
 ---
 
-## 🟩 $ philosophy
+## 🌟 Philosophy
 
-> The graph remembers what motivation forgets.
+> Consistency beats intensity.
 
-> One commit. Every day.
+> Small progress every day compounds into big results.
 
 ---
 
-<p align="center">
+<div align="center">
 
-```console
-SYSTEM STATUS : ONLINE
-```
+### 🚀 Open Source • Learning • Building
 
-</p>
+Thanks for visiting my profile!
 
+</div>
