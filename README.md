@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Shri Subashini M
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;SSoC'26+Maintainer;Open+Source+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SSoC'26+Maintainer;Open+Source+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
 </p>
 
 ```bash
@@ -26,7 +26,7 @@ Learning • Building • Contributing
 - 🚀 SSoC'26 Maintainer
 - 🌱 Exploring Software Development
 - 🤝 Active in Open Source
-- 💡 Always learning something new
+- 💡 Passionate about learning and building
 - 🎯 Working towards internships and impactful projects
 
 ---
@@ -53,15 +53,17 @@ GitHub
 HTML
 CSS
 JavaScript
+TypeScript
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri8977&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri8977&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri8977&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri8977&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +71,7 @@ JavaScript
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shri8977&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=shri8977&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -107,6 +109,8 @@ while(alive){
 
 <div align="center">
 
-### Thanks for visiting my profile 🚀
+### 🚀 Open Source • Learning • Building
+
+Thanks for visiting my profile!
 
 </div>
