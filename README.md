@@ -1,45 +1,42 @@
-<!-- Animated Banner -->
-
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shri%20Subashini%20M&fontAlignY=40&fontSize=50&animation=fadeIn" />
-</p>
-
-<h1 align="center">⚡ Welcome to My GitHub</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Computer+Science+Student;SSoC'26+Maintainer;Open+Source+Enthusiast;Learning+%7C+Building+%7C+Contributing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,100:00FF41&text=SHRI.OS&fontColor=00FF41&fontSize=60&animation=fadeIn" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shri8977&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Wake+Up+Neo...;The+Matrix+Has+You...;Computer+Science+Student;SSoC'26+Maintainer;Open+Source+Enthusiast;Learning+%7C+Building+%7C+Contributing" />
 </p>
 
----
+<p align="center">
+<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="650"/>
+</p>
 
-# 👩‍💻 About Me
+<h1 align="center">⚡ Shri Subashini M</h1>
 
-```yaml
-name: Shri Subashini M
+<div align="center">
 
-role: Computer Science Student
+```bash
+$ whoami
 
-interests:
-  - Open Source
-  - Software Development
-  - Problem Solving
-
-current_status:
-  learning: true
-  building: true
-  contributing: true
-
-community:
-  - SSoC'26 Maintainer
+Computer Science Student
+SSoC'26 Maintainer
+Open Source Enthusiast
 ```
 
+</div>
+
 ---
 
-# ⚔️ Current Missions
+## 🟩 $ about_me
+
+* 🎓 Computer Science Student
+* 🚀 SSoC'26 Maintainer
+* 🌱 Exploring Software Development
+* 🤝 Active in Open Source
+* 💡 Learning through building and contributing
+
+---
+
+## 🟩 $ current_mission
 
 ```diff
 + Open Source Contributions
@@ -49,58 +46,47 @@ community:
 ! Improve DSA
 ! Strengthen Java
 
-# Next Objective: Internship
+# Objective: Internship
 ```
 
 ---
 
-# 🛠 Tech Stack
+## 🟩 $ tech_stack
 
-```text
-Java
-JavaScript
-HTML
-CSS
-Git
-GitHub
-VS Code
+```yaml
+Languages:
+  - Java
+  - JavaScript
+  - HTML
+  - CSS
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
 ```
 
 ---
 
-# 📊 GitHub Statistics
+## 🟩 $ github_stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri8977&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri8977&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri8977&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri8977&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🟩 $ contribution_streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shri8977&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=shri8977&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🚀 Current Focus
-
-```bash
-$ focus
-
-Open Source
-Java Development
-Problem Solving
-Project Building
-Continuous Learning
-```
-
----
-
-# ⚡ Daily Protocol
+## 🟩 $ execution_loop
 
 ```java
 while(alive){
@@ -113,22 +99,19 @@ while(alive){
 
 ---
 
-# 🌟 Philosophy
+## 🟩 $ philosophy
 
-> Build.
->
-> Learn.
->
-> Share.
->
-> Repeat.
+> The graph remembers what motivation forgets.
+
+> One commit. Every day.
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 🚀 Open Source • Learning • Building
+```console
+SYSTEM STATUS : ONLINE
+```
 
-*"Every green square tells a story."*
+</p>
 
-</div>
