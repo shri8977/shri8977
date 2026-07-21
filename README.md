@@ -73,21 +73,11 @@ Interests : Open Source · Problem Solving · Project Reviewing
 
 ---
 
-## 🏆 Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shri8977&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shri8977/shri8977/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%" />
 </p>
-
-> ⚙️ *This animates automatically once the snake workflow (included separately) runs on your repo — see setup notes below.*
 
 ---
 
@@ -100,7 +90,7 @@ Interests : Open Source · Problem Solving · Project Reviewing
   <a href="https://www.linkedin.com/in/shri-subashini-m-9b76a4356">
     <img src="https://img.shields.io/badge/LinkedIn-Shri%20Subashini%20M-0F172A?style=for-the-badge&logo=linkedin&logoColor=00FF7F" />
   </a>
-  <a href="mailto:shri8977@gmail.com">
+  <a href="mailto:shrisubashini2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-shri8977-0F172A?style=for-the-badge&logo=gmail&logoColor=00FF7F" />
   </a>
 </p>
