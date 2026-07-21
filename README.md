@@ -1,23 +1,20 @@
-<h1 align="center">👋 Hey, I'm Shri Subashini M</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Student+%7C+Maintainer+%7C+Builder;Open+Source+Enthusiast;One+commit+at+a+time." alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00FF7F&height=200&section=header&text=Shri%20Subashini%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%E2%80%A2%20Maintainer%20%E2%80%A2%20Builder&descAlignY=55&descSize=18" />
 
-<p align="center">
-  <a href="https://github.com/shri8977">
-    <img src="https://img.shields.io/github/followers/shri8977?style=flat&logo=github&color=00FF7F&labelColor=0F172A" />
-  </a>
-  <a href="https://ssoc.dev">
-    <img src="https://img.shields.io/badge/SSoC'26-Maintainer-00FF7F?style=flat&labelColor=0F172A" />
-  </a>
-  <a href="https://github.com/shri8977">
-    <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-00FF7F?style=flat&labelColor=0F172A" />
-  </a>
-  <a href="https://www.linkedin.com/in/shri-subashini-m-9b76a4356">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF7F?style=flat&logo=linkedin&logoColor=white&labelColor=0F172A" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Open+Source+Enthusiast;SSoC'26+Maintainer;One+commit+at+a+time." alt="Typing SVG" />
+
+<a href="https://github.com/shri8977">
+  <img src="https://img.shields.io/github/followers/shri8977?style=flat&logo=github&color=00FF7F&labelColor=0F172A" />
+</a>
+<a href="https://ssoc.dev">
+  <img src="https://img.shields.io/badge/SSoC'26-Maintainer-00FF7F?style=flat&labelColor=0F172A" />
+</a>
+<a href="https://www.linkedin.com/in/shri-subashini-m-9b76a4356">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF7F?style=flat&logo=linkedin&logoColor=white&labelColor=0F172A" />
+</a>
+
+</div>
 
 ---
 
@@ -35,11 +32,13 @@
 
 ## 🛠️ Toolkit
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github&theme=dark" />
+</div>
+
 ```text
-Languages   : Java · HTML · CSS · JavaScript
-Tools       : Git · GitHub
-Traits      : Curiosity · Persistence · Community building
-Interests   : Open Source · Problem Solving · Project Reviewing
+Traits    : Curiosity · Persistence · Community building
+Interests : Open Source · Problem Solving · Project Reviewing
 ```
 
 ---
@@ -74,6 +73,24 @@ Interests   : Open Source · Problem Solving · Project Reviewing
 
 ---
 
+## 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shri8977&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shri8977/shri8977/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%" />
+</p>
+
+> ⚙️ *This animates automatically once the snake workflow (included separately) runs on your repo — see setup notes below.*
+
+---
+
 ## 🌐 Connect
 
 <p align="center">
@@ -90,10 +107,12 @@ Interests   : Open Source · Problem Solving · Project Reviewing
 
 ---
 
-<p align="center">
-  <i>"One commit at a time. One quest at a time."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shri8977&color=00FF7F&label=Profile+Views&style=flat" alt="Profile views" />
-</p>
+<i>"One commit at a time. One quest at a time."</i>
+
+<img src="https://komarev.com/ghpvc/?username=shri8977&color=00FF7F&label=Profile+Views&style=flat" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0F172A&height=100&section=footer" />
+
+</div>
