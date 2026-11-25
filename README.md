@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=Shri%20Subashini%20M&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=15" width="100%" />
 
+#Gundu Suba doing Gundu stuff.
 
 *Building things, breaking things, learning things.*
 
